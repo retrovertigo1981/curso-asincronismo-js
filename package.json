@@ -1,0 +1,21 @@
+{
+  "name": "curso-asincronismo",
+  "version": "1.0.0",
+  "description": "Curso de Asincronismo en JS by Platzi",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/challenge.js",
+    "fetch": "node src/promise/challenge.js"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Sebsatián Peña pjfanchile@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "node-fetch": "^3.3.0",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "type": "module"
+}
